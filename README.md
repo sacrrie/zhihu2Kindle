@@ -1,11 +1,5 @@
-# zhihu2Kindle
-模拟知乎登录，获取自己的关注并推送之Kindle，计划用Python和Javascript实现，并争取用Google Script来实现每周自动推送
+# zhihu2reader
+为了减轻自己的网络成瘾程度，打算开发这个脚本，计划为本地运行的python and/or bash。
+添加自己喜欢的答主，按设定的日期收集点赞，动态和回答。去重后打包为rtf、pdf等方便自己导入kindle阅读的格式。
 
-Reference:
-https://www.jianshu.com/p/46c1de9da6c4
-https://github.com/Rockyzsu/zhihuToKindle
-
-之前的一些残留引用：
-修改代码里面user 和 password 然后直接运行python login_fetch
-如遇到需要验证码时，打开本目录下的code.jpg文件，然后输入验证码即可。
-
+将选定他人合适的repo进行fork和重构。
